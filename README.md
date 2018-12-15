@@ -2,15 +2,15 @@
 
 #### 审美能力：多看好看的作品
 
-**网站**
+网站
 * AOTW
 * [Behance](https://www.behance.net/)
 * [Cargo Collective](https://2.cargocollective.com/)
 
-**书籍**
+书籍
 * [《广告档案》](https://book.douban.com/subject/1855347/)
 
-**展览**
+展览
 * 华美术馆
 * 关山月美术馆
 
