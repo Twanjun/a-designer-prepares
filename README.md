@@ -36,3 +36,12 @@
   * MAYA：角色邦定（角色动画、邦定、毛发）
   * ZBRUSH：雕刻建模，功能强大，工作流程直观
   * CINEMA 4D：综合三维软件
+
+#### 色卡参考工具
+* [ColorHexa](https://www.colorhexa.com)
+* [Pourpre.com](http://pourpre.com/fr/)
+* [Encycolorpedia](https://encycolorpedia.cn/)
+* [Dulux Valentine](https://www.duluxvalentine.com/)
+* [RAL](https://www.ralcolor.com/)
+* [Farrow & Ball](http://www.farrow-ball.com/)
+* [Pantone](https://www.pantone.com/)
